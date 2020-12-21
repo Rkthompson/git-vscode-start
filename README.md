@@ -31,3 +31,10 @@ Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
 
 ## We've gone through 2 cycles of pull and push of commits.
+
+- [x] Created README.MD on GitHub
+- [x] Pulled project into VSCode
+- [x] Commited and Pushed changes back to GitHub from VSCode
+- [x] Made edits via the GitHub interface
+- [x] Pulled project into VSCode
+- [x] Added completed task list and pushed to GitHub from VSCode
